@@ -51,6 +51,6 @@ input[type="submit"] {
   margin: 1em auto;
   height: 2em;
   font-size: 1rem;
-  background-color: blueviolet;
+  background-color: rgb(243, 85, 28);
   cursor: pointer;
 }
